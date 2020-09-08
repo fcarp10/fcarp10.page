@@ -1,0 +1,21 @@
+baseURL = "https://fcarp10.page/"
+languageCode = "en-us"
+title = "Francisco Carpio | Technische Universität Braunschweig"
+theme = "hugo-theme-console"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  [[params.navlinks]]
+  name = "publications/"
+  url = "publications/"
+
+  [[params.navlinks]]
+  name = "github/"
+  url = "https://github.com/fcarp10"
+
+  #[[params.navlinks]]
+  #name = "posts/"
+  #url = "posts/"
+  

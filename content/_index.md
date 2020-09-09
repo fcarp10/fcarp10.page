@@ -2,8 +2,11 @@
 title = "About me"
 +++
 
-I am currently a Ph.D. student at the Institute of Computer and Network Engineering at the Technische Universität Braunschweig, Germany. I obtained my Master degree in Telecommunications Engineering from Universitat Politècnica de Catalunya (UPC), Spain. My current research interests include Network Function Virtualization, Edge Cloud computing networks and Machine Learning applied to network and service management.
+<br/><br/>
 
+![Profile](/img/profile.jpg)
+
+I am currently a Ph.D. student at the Institute of Computer and Network Engineering at the Technische Universität Braunschweig, Germany. I obtained my Master degree in Telecommunications Engineering from Universitat Politècnica de Catalunya (UPC), Spain. My current research interests include Network Function Virtualization, Edge Cloud computing networks and Machine Learning applied to network and service management.
 
 ### Affiliations
 
@@ -23,3 +26,9 @@ I am currently a Ph.D. student at the Institute of Computer and Network Engineer
 
 -  BMBF PLANETS-SENDATE: SEcure Networking for a DATa center cloud in Europe, 2016-2019
 -  EU H2020 mF2C: Towards an Open, Secure, Decentralized and Coordinated Fog-to-Cloud Management Ecosystem. 2017-2020
+
+### Languages, tools and other stuff I am familiar with...
+
+![Java](/img/java.png) ![Python](/img/python.png)
+
+### Also, I played with...

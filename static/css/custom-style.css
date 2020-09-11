@@ -1,0 +1,12 @@
+:root {
+    --primary-color:black;
+    --global-font-color: black;
+}
+
+img[src*="#profile"] {
+    width:initial;
+}
+
+img[src*="#icon"] {
+    width:64px;
+ }

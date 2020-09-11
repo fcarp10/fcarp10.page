@@ -4,7 +4,7 @@ title = "About me"
 
 <br/><br/>
 
-![Profile](/img/profile.jpg)
+![Profile](/img/profile.jpg#profile)
 
 I am currently a Ph.D. student at the Institute of Computer and Network Engineering at the Technische Universität Braunschweig, Germany. I obtained my Master degree in Telecommunications Engineering from Universitat Politècnica de Catalunya (UPC), Spain. My current research interests include Network Function Virtualization, Edge Cloud computing networks and Machine Learning applied to network and service management.
 
@@ -29,6 +29,6 @@ I am currently a Ph.D. student at the Institute of Computer and Network Engineer
 
 ### Languages, tools and other stuff I am familiar with...
 
-![Java](/img/java.png) ![Python](/img/python.png)
+![Java](/img/java.png#icon) ![Python](/img/python.png#icon)
 
 ### Also, I played with...

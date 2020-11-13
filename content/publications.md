@@ -3,7 +3,7 @@ title = "Publications"
 +++
 
 
-### Journal Publications
+### Journal Articles
 
 - A. Jukan, F. Carpio, X. Masip, A. J. Ferrer, N. Kemper and B. U. Stetina, "Fog-to-Cloud Computing for Farming: Low-Cost Technologies, Data Exchange, and Animal Welfare," in Computer, vol. 52, no. 10, pp. 41-51, Oct. 2019. DOI: 10.1109/MC.2019.2906837.
 
@@ -13,7 +13,7 @@ title = "Publications"
 
 
 
-### Conference Publications
+### Conference Proceedings
 
 - F. Carpio, M. Delgado and A. Jukan, "Engineering and Experimentally Benchmarking a Container-based Edge Computing System," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, DOI: 10.1109/ICC40277.2020.9148636.
 
@@ -22,6 +22,8 @@ title = "Publications"
 - C. V. Phung, J. Dizdarevic, F. Carpio and A. Jukan, "Enhancing REST HTTP with Random Linear Network Coding in Dynamic Edge Computing Environments," 2019 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), Opatija, Croatia, 2019, pp. 435-440. DOI: 10.23919/MIPRO.2019.8756782
 
 - F. Carpio, A. Jukan and R. Pries, "Balancing the migration of virtual network functions with replications in data centers," NOMS 2018 - 2018 IEEE/IFIP Network Operations and Management Symposium, Taipei, 2018, pp. 1-8. DOI: 10.1109/NOMS.2018.8406275.
+
+- Dizdarević J., Carpio F., Bensalem M., Jukan A. (2019) Enhancing Service Management Systems with Machine Learning in Fog-to-Cloud Networks. In: Mencagli G. et al. (eds) Euro-Par 2018: Parallel Processing Workshops. Euro-Par 2018. Lecture Notes in Computer Science, vol 11339. Springer, Cham. DOI: 10.1007/978-3-030-10549-5_23
 
 - Francisco Carpio, Admela Jukan, Ana Isabel Martín Sanchez, Nina Amla, and Nicole Kemper. 2017. Beyond Production Indicators: A Novel Smart Farming Application and System for Animal Welfare. In Proceedings of the Fourth International Conference on Animal-Computer Interaction (ACI2017). ACM, New York, NY, USA, Article 7, 11 pages. DOI: 10.1145/3152130.3152140.
 
@@ -36,9 +38,9 @@ title = "Publications"
 - M. Caria, F. Carpio, A. Jukan and M. Hoffmann, "Migration to energy efficient routers: Where to start?," 2014 IEEE International Conference on Communications (ICC), Sydney, NSW, 2014, pp. 4300-4306. DOI: 10.1109/ICC.2014.6883996.
 
 
-### Workshops
 
-- Dizdarević J., Carpio F., Bensalem M., Jukan A. (2019) Enhancing Service Management Systems with Machine Learning in Fog-to-Cloud Networks. In: Mencagli G. et al. (eds) Euro-Par 2018: Parallel Processing Workshops. Euro-Par 2018. Lecture Notes in Computer Science, vol 11339. Springer, Cham. DOI: 10.1007/978-3-030-10549-5_23
+
+
 
 
 

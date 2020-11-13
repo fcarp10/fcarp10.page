@@ -35,8 +35,10 @@ service management.
 - BMBF PLANETS-SENDATE: SEcure Networking for a DATa center cloud in Europe, 2016-2019.
 
 
-### Languages, tools and other stuff I am familiar with...
+### Experienced with...
 
-![Java](/img/java.png#icon) ![Python](/img/python.png#icon)
+![Java](/img/java.png#icon) ![Python](/img/python.png#icon) ![Docker](/img/docker.png#icon) ![Gurobi](/img/gurobi.png#icon) 
 
-### Also, I played with...
+#### Familiar with...
+
+![Kubernetes](/img/kubernetes.png#icon) ![OpenFaas](/img/openfaas.png#icon) ![Javascript](/img/javascript.png#icon) 

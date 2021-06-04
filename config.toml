@@ -3,6 +3,7 @@ baseURL = "https://fcarp10.page/"
 languageCode = "en-us"
 title = "Francisco Carpio | Technische Universität Braunschweig"
 theme = "hugo-theme-console"
+googleAnalytics = "UA-198721484-1"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
